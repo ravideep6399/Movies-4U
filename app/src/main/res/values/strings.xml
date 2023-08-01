@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movies-4U</string>
+    <string name="pref_key_api_key">15c8a4436ea96d1836b8192e427a690b</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
